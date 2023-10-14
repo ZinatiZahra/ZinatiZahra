@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZinatiZahra
 - 👀 I’m interested in Learning my work
 - 🌱 I’m currently learning abou my job
-- 💞️ I’m looking to collaborate on my job
+- 💞️ I’m looking to collaborate on my job and work
 - 📫 How to reach me by my mail
 
 <!---
